@@ -4,6 +4,7 @@ A real-time sound intent detection system built on the ESP32 using ESP-IDF in VS
 
 This project focuses on detecting intentional acoustic events from noisy microphone input using lightweight signal processing techniques instead of heavy DSP or machine learning frameworks.
 
+##
 -FreeRTOS
 -ESP32
 -ESP IDF
